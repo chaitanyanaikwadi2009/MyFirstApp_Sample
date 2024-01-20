@@ -26,6 +26,4 @@ app.MapControllerRoute(
 
 app.Run();
 Console.WriteLine("Good Morning Chaitanya");
-Console.WriteLine("Good Morning Chaitanya");
-Console.WriteLine("Good Morning Chaitanya");
-Console.WriteLine("Good Morning Chaitanya");
+

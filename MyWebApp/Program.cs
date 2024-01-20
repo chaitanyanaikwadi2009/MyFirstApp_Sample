@@ -27,3 +27,15 @@ app.MapControllerRoute(
 app.Run();
 Console.WriteLine("Good Morning Chaitanya");
 
+static void Mymethod()
+{
+
+}
+static void secondmethod()
+{
+
+}
+static void thirdmethod()
+{
+
+}

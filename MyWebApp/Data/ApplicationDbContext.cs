@@ -1,6 +1,6 @@
 ﻿namespace MyWebApp.Data
 {
-    public class ApplicationDbContext:DbContext
+    public class ApplicationDbContext : DbContext
     {
     }
 }
